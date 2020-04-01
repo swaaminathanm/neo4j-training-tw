@@ -81,6 +81,7 @@ by Swami M
 <!-- _class: lead -->
 
 # How about NOSQL Databases?
+[Schema](./nosql-schema.png)
 
 ---
 
@@ -121,7 +122,7 @@ by Swami M
 # CREATE Clause
 
 ```
-CREATE (appleBrand:Brand{id:'apple_123', name: 'Apple'}) RETURN appleBrand;
+CREATE (appleBrand:Brand{id:'apple_123', name:'Apple'}) RETURN appleBrand;
 ```
 
 ---
@@ -131,7 +132,7 @@ CREATE (appleBrand:Brand{id:'apple_123', name: 'Apple'}) RETURN appleBrand;
 ```
 MATCH (appleBrand:Brand{id:'apple_123'})
 MATCH (iphoneVariant:Variant{id:'variant_123'})
-CREATE (appleBrand)-[:has]->(iphoneVariant);
+CREATE (appleBrand)-[:has_variant]->(iphoneVariant);
 ```
 
 ---
