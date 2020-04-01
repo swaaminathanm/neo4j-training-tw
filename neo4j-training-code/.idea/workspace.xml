@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b83827f6-cca1-4695-a96f-382ebf7f88dc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1YfYv7Qeg0iHWwTeeUaypW93asv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b83827f6-cca1-4695-a96f-382ebf7f88dc" name="Default Changelist" comment="" />
+      <created>1583335343245</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583335343245</updated>
+      <workItem from="1583335345024" duration="536000" />
+      <workItem from="1583906528691" duration="287000" />
+      <workItem from="1583906835130" duration="8815000" />
+      <workItem from="1583991975722" duration="39407000" />
+      <workItem from="1584709011042" duration="23000" />
+      <workItem from="1585039919870" duration="5341000" />
+      <workItem from="1585298164820" duration="6467000" />
+      <workItem from="1585389461707" duration="4720000" />
+      <workItem from="1585505542154" duration="3417000" />
+      <workItem from="1585596627909" duration="6809000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="168" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585301554839">
+      <screen x="0" y="23" width="1680" height="966" />
+    </state>
+    <state x="304" y="168" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.966@0.23.1680.966" timestamp="1585301554839" />
+    <state x="421" y="235" width="837" height="550" key="find.popup" timestamp="1583949833203">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state x="421" y="235" width="837" height="550" key="find.popup/0.23.1680.974@0.23.1680.974" timestamp="1583949833203" />
+    <state x="505" y="236" width="670" height="677" key="search.everywhere.popup" timestamp="1585763729109">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state x="505" y="235" width="670" height="672" key="search.everywhere.popup/0.23.1680.966@0.23.1680.966" timestamp="1584258225885" />
+    <state x="505" y="236" width="670" height="677" key="search.everywhere.popup/0.23.1680.972@0.23.1680.972" timestamp="1585763729109" />
+    <state x="505" y="237" width="670" height="676" key="search.everywhere.popup/0.23.1680.973@0.23.1680.973" timestamp="1584035272672" />
+    <state x="505" y="237" width="670" height="676" key="search.everywhere.popup/0.23.1680.974@0.23.1680.974" timestamp="1583949839849" />
+  </component>
+</project>
