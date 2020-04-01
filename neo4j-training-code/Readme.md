@@ -1,7 +1,9 @@
 # Setup
-1. Do npm install (to install dependencies)
-2. Create dump folder in the root of your project
-3. node index.js (to run the application)
+1. Install Neo4j (https://neo4j.com/developer/docker-run-neo4j/)
+2. Install NodeJS (https://nodejs.org/en/)
+3. Do npm install (to install dependencies)
+4. Create dump folder in the root of your project
+5. node index.js (to run the application)
 
 # Queries
 **Create Promotion on Entity**
