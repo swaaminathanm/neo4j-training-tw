@@ -1,6 +1,7 @@
 # Setup
 1. Do npm install (to install dependencies)
-2. node index.js (to run the application)
+2. Create dump folder in the root of your project
+3. node index.js (to run the application)
 
 # Queries
 **Create Promotion on Entity**
