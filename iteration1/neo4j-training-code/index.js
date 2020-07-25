@@ -327,6 +327,10 @@ const createProductVariantRelationshipQuery = (productId, variantId, variantColo
 // ----------------------------------------
 
 const doDIToFile = () => {
+  if (!fs.existsSync(DUMP_DIRECTORY)){
+    fs.mkdirSync(DUMP_DIRECTORY);
+  }
+
   emptyDirectory(DUMP_DIRECTORY);
   console.log(`Cleared ${DUMP_DIRECTORY}`);
 
