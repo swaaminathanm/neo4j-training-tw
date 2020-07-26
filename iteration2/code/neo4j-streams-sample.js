@@ -6,9 +6,9 @@ const driver = neo4j.driver(
 );
 
 const query =
-  `MATCH (n:Category{id:'cat170005',tenant:'11a7e456-c115-4efe-bc96-f362f0407856'}) ` +
-  `CALL apoc.path.subgraphNodes(n, { relationshipFilter:"HAS>", uniqueness:"NODE_GLOBAL", bfs:true, labelFilter:"/Variant" }) YIELD node as nodes ` +
-  `RETURN nodes.uuid as variantId`;
+`MATCH (c:Category {uuid:'f3cfc627-fa24-591a-a583-7060b1fed52f'}) ` +
+`CALL example.getVariants({node:c}) YIELD variantUuid ` +
+`RETURN variantUuid as variantUuid`;
 
 const logMemory = () => {
   return setInterval(() => {
@@ -46,5 +46,5 @@ const withStreaming = async () => {
 
 logMemory();
 
-withoutStreaming();
-// withStreaming();
+// withoutStreaming();
+withStreaming();
